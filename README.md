@@ -8,3 +8,4 @@ Kubernetes: Getting Started (Free Course) | https://www.udemy.com/course/kuberne
 100 day of Kubernetes | https://100daysofkubernetes.io/overview.html <br/>  https://www.youtube.com/watch?v=W6J6UipVNGA&list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV
                        
 
+(If you feel if there other resources Create a PR I am happy to review ) 😄 
